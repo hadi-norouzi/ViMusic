@@ -114,5 +114,8 @@
         <meta-data android:name="com.google.android.gms.car.notification.SmallIcon"
             android:resource="@drawable/app_icon" />
 
+        <meta-data android:name="androidx.car.app.TintableAttributionIcon"
+            android:resource="@drawable/app_icon"/>
+
     </application>
 </manifest>

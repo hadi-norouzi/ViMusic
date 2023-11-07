@@ -92,5 +92,7 @@ dependencies {
     implementation(projects.innertube)
     implementation(projects.kugou)
 
+    implementation("androidx.media:media:1.6.0")
+
     coreLibraryDesugaring(libs.desugaring)
 }
